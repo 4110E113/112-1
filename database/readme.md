@@ -1,1 +1,1 @@
-abot SQL from PhpMyAdmin
+## about SQL from phpMyAdmin
