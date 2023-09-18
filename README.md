@@ -1,1 +1,1 @@
-# database structure
+# about ksu 112-1 
